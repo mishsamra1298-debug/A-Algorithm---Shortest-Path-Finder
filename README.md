@@ -2,12 +2,11 @@
 This project demonstrates the A* algorithm to find the shortest path in a grid by combining cost and heuristic functions. It allows users to visualize path finding in different scenarios.
 
 # Concepts Covered
-   Concept                      |             Where Used
-   Informed Search              |             A* uses heuristic h(n) to guide search
-   Heuristics                   |             Manhattan Distance- admissible and consistent
-   Graph Traversal              |             Node expansion, open/closed lists
-   Optimality                   |             A* guarantees shortest path with admissible heuristic
-   Problem Formulation          |             State space, actions, goal test, path cost
+Informed Search: A* uses a heuristic function h(n) to guide the search process.
+Heuristics: Manhattan Distance is used, which is admissible and consistent.
+Graph Traversal: The algorithm performs node expansion using open and closed lists.
+Optimality: A* guarantees the shortest path when an admissible heuristic is used.
+Problem Formulation: It includes state space, actions, goal test, and path cost.
 
 A command-line implementation of the A* (A-Star) search algorithm — one of the most
 widely used pathfinding algorithms in Artificial Intelligence. This project demonstrates how
