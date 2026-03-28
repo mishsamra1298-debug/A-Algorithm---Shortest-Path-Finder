@@ -60,11 +60,11 @@ algorithm.
 4. Enter start and goal positions
 
 # Reading the output
-'S' symbol represents Start Position 
-'G' symbol represents Goal Position
-* symbol represents Shortest Path
-██ symbol represents Wall (obstacle)
-· symbol represents node explored by A*
+'S' symbol represents Start Position.
+'G' symbol represents Goal Position.
+'*' symbol represents Shortest Path.
+'██' symbol represents Wall (obstacle).
+'·'symbol represents node explored by A*.
 
 # Sample output
 --- Result ---
