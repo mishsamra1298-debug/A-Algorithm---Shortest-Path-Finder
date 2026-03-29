@@ -34,6 +34,7 @@ exploring fewer nodes than uninformed algorithms like BFS and DFS.
 astar_project/
 |--- astar.py        # Main program (algorithm + CLI)
 └--- README.md       # This file
+|___Screenshots      #Output File
 
 # Requirements :-
 Python verion 3.7 or higher
